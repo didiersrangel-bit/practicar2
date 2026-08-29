@@ -1,0 +1,2 @@
+## funciona?
+primero creo el repocitorio, luego creo el issues, luego copio el enlace, voy para destoc y luego clono el repositorio, luego creo la rama con el numero que el issues me dio y luego lo publico, abro el archivo en vs code creo un archivo, de hay investigo lo que es y cuando termine hago control + s para guardar como un commit, 
